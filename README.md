@@ -2,37 +2,37 @@
 
 I'm Trieu Tran, a professional **self-taughted** Frontend web developer .
 
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/raenbov)
-[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
-[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Ra1nbow1)
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://github.com/trieutran81)
 
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
-[![React](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=007396)](https://ra1nbow.xyz?ref=github)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/trieutran81)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/trieutran81)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/trieutran81)
+[![React](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=007396)](https://github.com/trieutran81)
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://github.com/trieutran81)
 
 
 ### Other
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://github.com/trieutran81)
+[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://github.com/trieutran81)
 
 
 
